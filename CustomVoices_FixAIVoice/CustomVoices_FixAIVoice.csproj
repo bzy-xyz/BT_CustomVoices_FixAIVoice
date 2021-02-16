@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="Assembly-CSharp">
+        <HintPath>../../../BattleTech_Data/Managed/Assembly-CSharp.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine">
+        <HintPath>../../../BattleTech_Data/Managed/UnityEngine.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine.UI">
+        <HintPath>../../../BattleTech_Data/Managed/UnityEngine.UI.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine.CoreModule">
+        <HintPath>../../../BattleTech_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine.IMGUIModule">
+        <HintPath>../../../BattleTech_Data/Managed/UnityEngine.IMGUIModule.dll</HintPath>
+        </Reference>
+        <Reference Include="0Harmony">
+        <HintPath>../../ModTek/0Harmony.dll</HintPath>
+        </Reference>
+        <Reference Include="ModTek">
+        <HintPath>../../ModTek/ModTek.dll</HintPath>
+        </Reference>
+        <Reference Include="mscorlib">
+        <HintPath>../../../BattleTech_Data/Managed/mscorlib.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+</Project>

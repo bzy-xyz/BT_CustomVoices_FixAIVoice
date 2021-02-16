@@ -1,0 +1,4 @@
+modstate.json
+**/bin
+**/obj
+*.dll

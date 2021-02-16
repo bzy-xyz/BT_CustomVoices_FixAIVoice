@@ -1,0 +1,9 @@
+{
+    "Name": "CustomVoices_FixAIVoice",
+    "Version": "0.0.1",
+    "Enabled": true,
+
+    "DependsOn": [ "CustomVoices" ],
+    "DLL": "CustomVoices_FixAIVoice.dll",
+    "DLLEntryPoint": "CustomVoicesFixAIVoice.Main.Init"
+}
