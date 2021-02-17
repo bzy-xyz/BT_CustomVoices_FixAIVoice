@@ -1,6 +1,8 @@
 CustomVoices_FixAIVoice
 =======================
 
+(Will be obsoleted by a future release of CustomVoices; the essential changes were PR'd upstream.)
+
 Fixes the AI voice with CustomVoices installed.
 
 Why
